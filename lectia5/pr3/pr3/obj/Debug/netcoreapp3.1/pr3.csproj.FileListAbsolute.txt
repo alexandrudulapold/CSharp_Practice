@@ -1,0 +1,13 @@
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\bin\Debug\netcoreapp3.1\pr3.exe
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\bin\Debug\netcoreapp3.1\pr3.deps.json
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\bin\Debug\netcoreapp3.1\pr3.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\bin\Debug\netcoreapp3.1\pr3.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\bin\Debug\netcoreapp3.1\pr3.dll
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\bin\Debug\netcoreapp3.1\pr3.pdb
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\obj\Debug\netcoreapp3.1\pr3.csprojAssemblyReference.cache
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\obj\Debug\netcoreapp3.1\pr3.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\obj\Debug\netcoreapp3.1\pr3.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\obj\Debug\netcoreapp3.1\pr3.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\obj\Debug\netcoreapp3.1\pr3.dll
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\obj\Debug\netcoreapp3.1\pr3.pdb
+D:\CSharp_vs\lectii\lectia5\pr3\pr3\obj\Debug\netcoreapp3.1\pr3.genruntimeconfig.cache

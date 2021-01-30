@@ -1,0 +1,13 @@
+D:\CSharp_vs\lectii\lectia16_xml\app\app\bin\Debug\netcoreapp3.1\app.exe
+D:\CSharp_vs\lectii\lectia16_xml\app\app\bin\Debug\netcoreapp3.1\app.deps.json
+D:\CSharp_vs\lectii\lectia16_xml\app\app\bin\Debug\netcoreapp3.1\app.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia16_xml\app\app\bin\Debug\netcoreapp3.1\app.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia16_xml\app\app\bin\Debug\netcoreapp3.1\app.dll
+D:\CSharp_vs\lectii\lectia16_xml\app\app\bin\Debug\netcoreapp3.1\app.pdb
+D:\CSharp_vs\lectii\lectia16_xml\app\app\obj\Debug\netcoreapp3.1\app.csprojAssemblyReference.cache
+D:\CSharp_vs\lectii\lectia16_xml\app\app\obj\Debug\netcoreapp3.1\app.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia16_xml\app\app\obj\Debug\netcoreapp3.1\app.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia16_xml\app\app\obj\Debug\netcoreapp3.1\app.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia16_xml\app\app\obj\Debug\netcoreapp3.1\app.dll
+D:\CSharp_vs\lectii\lectia16_xml\app\app\obj\Debug\netcoreapp3.1\app.pdb
+D:\CSharp_vs\lectii\lectia16_xml\app\app\obj\Debug\netcoreapp3.1\app.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8oAGyNAdWE75LqtR3zqn7qSZH00WLZBnAPlaHIOuar114QIC3ZddgHA4dMqExep/6op+Zv8I8HPcByZvWCZXA==",
+  "success": true,
+  "projectFilePath": "D:\\CSharp_vs\\lectii\\lectia18_serializare\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

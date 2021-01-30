@@ -1,0 +1,13 @@
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\bin\Debug\netcoreapp3.1\fisiere.exe
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\bin\Debug\netcoreapp3.1\fisiere.deps.json
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\bin\Debug\netcoreapp3.1\fisiere.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\bin\Debug\netcoreapp3.1\fisiere.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\bin\Debug\netcoreapp3.1\fisiere.dll
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\bin\Debug\netcoreapp3.1\fisiere.pdb
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\obj\Debug\netcoreapp3.1\fisiere.csprojAssemblyReference.cache
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\obj\Debug\netcoreapp3.1\fisiere.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\obj\Debug\netcoreapp3.1\fisiere.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\obj\Debug\netcoreapp3.1\fisiere.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\obj\Debug\netcoreapp3.1\fisiere.dll
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\obj\Debug\netcoreapp3.1\fisiere.pdb
+D:\CSharp_vs\lectii\lectia14_fisiere\fisiere\fisiere\obj\Debug\netcoreapp3.1\fisiere.genruntimeconfig.cache

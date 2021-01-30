@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Tranzactii>
+  <Tranzactie categorie="pf">
+    <ID>1354000</ID>
+    <date>6/16/2020 12:00:00 AM</date>
+    <suma>1958</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie categorie="pj">
+    <ID>1354001</ID>
+    <date>3/16/2020 12:00:00 AM</date>
+    <suma>2571</suma>
+    <statut>False</statut>
+  </Tranzactie>
+	<Tranzactie categorie="pj">
+    <ID>1354002</ID>
+    <date>12/26/2020 12:00:00 AM</date>
+    <suma>2687</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354003</ID>
+    <date>1/21/2020 12:00:00 AM</date>
+    <suma>2859</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354004</ID>
+    <date>8/17/2020 12:00:00 AM</date>
+    <suma>2853</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354005</ID>
+    <date>12/25/2020 12:00:00 AM</date>
+    <suma>729</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354006</ID>
+    <date>6/6/2020 12:00:00 AM</date>
+    <suma>814</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354007</ID>
+    <date>2/19/2020 12:00:00 AM</date>
+    <suma>1264</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354008</ID>
+    <date>9/9/2020 12:00:00 AM</date>
+    <suma>468</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354009</ID>
+    <date>10/10/2020 12:00:00 AM</date>
+    <suma>962</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354010</ID>
+    <date>5/27/2020 12:00:00 AM</date>
+    <suma>1633</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354011</ID>
+    <date>8/14/2020 12:00:00 AM</date>
+    <suma>446</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354012</ID>
+    <date>7/1/2020 12:00:00 AM</date>
+    <suma>2582</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354013</ID>
+    <date>5/28/2020 12:00:00 AM</date>
+    <suma>522</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354014</ID>
+    <date>5/13/2020 12:00:00 AM</date>
+    <suma>1683</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354015</ID>
+    <date>5/26/2020 12:00:00 AM</date>
+    <suma>1195</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354016</ID>
+    <date>7/10/2020 12:00:00 AM</date>
+    <suma>1719</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354017</ID>
+    <date>8/24/2020 12:00:00 AM</date>
+    <suma>1784</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354018</ID>
+    <date>4/3/2020 12:00:00 AM</date>
+    <suma>2319</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354019</ID>
+    <date>5/10/2020 12:00:00 AM</date>
+    <suma>1741</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354020</ID>
+    <date>2/1/2020 12:00:00 AM</date>
+    <suma>1412</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354021</ID>
+    <date>10/28/2020 12:00:00 AM</date>
+    <suma>707</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354022</ID>
+    <date>3/13/2020 12:00:00 AM</date>
+    <suma>2238</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354023</ID>
+    <date>10/8/2020 12:00:00 AM</date>
+    <suma>1659</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354024</ID>
+    <date>8/6/2020 12:00:00 AM</date>
+    <suma>1045</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354025</ID>
+    <date>12/10/2020 12:00:00 AM</date>
+    <suma>1679</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354026</ID>
+    <date>6/16/2020 12:00:00 AM</date>
+    <suma>459</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354027</ID>
+    <date>3/4/2020 12:00:00 AM</date>
+    <suma>902</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354028</ID>
+    <date>11/17/2020 12:00:00 AM</date>
+    <suma>2548</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354029</ID>
+    <date>7/7/2020 12:00:00 AM</date>
+    <suma>1643</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354030</ID>
+    <date>3/23/2020 12:00:00 AM</date>
+    <suma>1620</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354031</ID>
+    <date>2/6/2020 12:00:00 AM</date>
+    <suma>1594</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354032</ID>
+    <date>7/9/2020 12:00:00 AM</date>
+    <suma>1206</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354033</ID>
+    <date>1/7/2020 12:00:00 AM</date>
+    <suma>2914</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354034</ID>
+    <date>7/21/2020 12:00:00 AM</date>
+    <suma>1958</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354035</ID>
+    <date>11/24/2020 12:00:00 AM</date>
+    <suma>1640</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354036</ID>
+    <date>3/19/2020 12:00:00 AM</date>
+    <suma>1481</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354037</ID>
+    <date>6/5/2020 12:00:00 AM</date>
+    <suma>2790</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354038</ID>
+    <date>9/20/2020 12:00:00 AM</date>
+    <suma>575</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354039</ID>
+    <date>11/9/2020 12:00:00 AM</date>
+    <suma>1740</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354040</ID>
+    <date>1/28/2020 12:00:00 AM</date>
+    <suma>2261</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354041</ID>
+    <date>10/1/2020 12:00:00 AM</date>
+    <suma>327</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354042</ID>
+    <date>8/1/2020 12:00:00 AM</date>
+    <suma>2568</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354043</ID>
+    <date>8/7/2020 12:00:00 AM</date>
+    <suma>2117</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354044</ID>
+    <date>4/11/2020 12:00:00 AM</date>
+    <suma>2920</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354045</ID>
+    <date>10/7/2020 12:00:00 AM</date>
+    <suma>2029</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354046</ID>
+    <date>5/27/2020 12:00:00 AM</date>
+    <suma>1676</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354047</ID>
+    <date>2/23/2020 12:00:00 AM</date>
+    <suma>2877</suma>
+    <statut>False</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354048</ID>
+    <date>3/10/2020 12:00:00 AM</date>
+    <suma>878</suma>
+    <statut>True</statut>
+  </Tranzactie>
+  <Tranzactie>
+    <ID>1354049</ID>
+    <date>2/17/2020 12:00:00 AM</date>
+    <suma>1158</suma>
+    <statut>False</statut>
+  </Tranzactie>
+</Tranzactii>

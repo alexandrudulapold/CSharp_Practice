@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<UtilizatoriDatabase>
+  <Utilizator>
+    <Utilizator_ID>123werty</Utilizator_ID>
+    <Utilizator_password>aaa</Utilizator_password>
+  </Utilizator>
+  <Utilizator>
+    <Utilizator_ID>2563wertqy</Utilizator_ID>
+    <Utilizator_password>bbb</Utilizator_password>
+  </Utilizator>
+</UtilizatoriDatabase>

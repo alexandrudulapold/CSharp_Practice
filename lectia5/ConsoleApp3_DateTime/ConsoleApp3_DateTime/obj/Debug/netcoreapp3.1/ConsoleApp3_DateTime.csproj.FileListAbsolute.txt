@@ -1,0 +1,13 @@
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\bin\Debug\netcoreapp3.1\ConsoleApp3_DateTime.exe
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\bin\Debug\netcoreapp3.1\ConsoleApp3_DateTime.deps.json
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\bin\Debug\netcoreapp3.1\ConsoleApp3_DateTime.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\bin\Debug\netcoreapp3.1\ConsoleApp3_DateTime.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\bin\Debug\netcoreapp3.1\ConsoleApp3_DateTime.dll
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\bin\Debug\netcoreapp3.1\ConsoleApp3_DateTime.pdb
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\obj\Debug\netcoreapp3.1\ConsoleApp3_DateTime.csprojAssemblyReference.cache
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\obj\Debug\netcoreapp3.1\ConsoleApp3_DateTime.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\obj\Debug\netcoreapp3.1\ConsoleApp3_DateTime.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\obj\Debug\netcoreapp3.1\ConsoleApp3_DateTime.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\obj\Debug\netcoreapp3.1\ConsoleApp3_DateTime.dll
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\obj\Debug\netcoreapp3.1\ConsoleApp3_DateTime.pdb
+D:\CSharp_vs\lectii\lectia5\ConsoleApp3_DateTime\ConsoleApp3_DateTime\obj\Debug\netcoreapp3.1\ConsoleApp3_DateTime.genruntimeconfig.cache

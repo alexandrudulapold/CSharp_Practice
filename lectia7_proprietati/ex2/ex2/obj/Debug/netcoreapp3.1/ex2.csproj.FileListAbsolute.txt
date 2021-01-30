@@ -1,0 +1,12 @@
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+D:\CSharp_vs\lectii\lectia7_proprietati\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache

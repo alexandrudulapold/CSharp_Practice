@@ -1,0 +1,13 @@
+D:\CSharp_vs\Lectia1\Lectia1\bin\Debug\netcoreapp3.1\Lectia1.exe
+D:\CSharp_vs\Lectia1\Lectia1\bin\Debug\netcoreapp3.1\Lectia1.deps.json
+D:\CSharp_vs\Lectia1\Lectia1\bin\Debug\netcoreapp3.1\Lectia1.runtimeconfig.json
+D:\CSharp_vs\Lectia1\Lectia1\bin\Debug\netcoreapp3.1\Lectia1.runtimeconfig.dev.json
+D:\CSharp_vs\Lectia1\Lectia1\bin\Debug\netcoreapp3.1\Lectia1.dll
+D:\CSharp_vs\Lectia1\Lectia1\bin\Debug\netcoreapp3.1\Lectia1.pdb
+D:\CSharp_vs\Lectia1\Lectia1\obj\Debug\netcoreapp3.1\Lectia1.csprojAssemblyReference.cache
+D:\CSharp_vs\Lectia1\Lectia1\obj\Debug\netcoreapp3.1\Lectia1.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\Lectia1\Lectia1\obj\Debug\netcoreapp3.1\Lectia1.AssemblyInfoInputs.cache
+D:\CSharp_vs\Lectia1\Lectia1\obj\Debug\netcoreapp3.1\Lectia1.AssemblyInfo.cs
+D:\CSharp_vs\Lectia1\Lectia1\obj\Debug\netcoreapp3.1\Lectia1.dll
+D:\CSharp_vs\Lectia1\Lectia1\obj\Debug\netcoreapp3.1\Lectia1.pdb
+D:\CSharp_vs\Lectia1\Lectia1\obj\Debug\netcoreapp3.1\Lectia1.genruntimeconfig.cache

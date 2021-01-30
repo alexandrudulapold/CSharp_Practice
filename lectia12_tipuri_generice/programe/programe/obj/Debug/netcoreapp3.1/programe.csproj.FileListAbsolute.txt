@@ -1,0 +1,13 @@
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\bin\Debug\netcoreapp3.1\programe.exe
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\bin\Debug\netcoreapp3.1\programe.deps.json
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\bin\Debug\netcoreapp3.1\programe.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\bin\Debug\netcoreapp3.1\programe.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\bin\Debug\netcoreapp3.1\programe.dll
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\bin\Debug\netcoreapp3.1\programe.pdb
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\obj\Debug\netcoreapp3.1\programe.csprojAssemblyReference.cache
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\obj\Debug\netcoreapp3.1\programe.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\obj\Debug\netcoreapp3.1\programe.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\obj\Debug\netcoreapp3.1\programe.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\obj\Debug\netcoreapp3.1\programe.dll
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\obj\Debug\netcoreapp3.1\programe.pdb
+D:\CSharp_vs\lectii\lectia12_tipuri_generice\programe\programe\obj\Debug\netcoreapp3.1\programe.genruntimeconfig.cache

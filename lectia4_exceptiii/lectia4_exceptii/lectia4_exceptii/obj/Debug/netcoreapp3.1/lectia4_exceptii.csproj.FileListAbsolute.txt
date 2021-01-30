@@ -1,0 +1,13 @@
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\bin\Debug\netcoreapp3.1\lectia4_exceptii.exe
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\bin\Debug\netcoreapp3.1\lectia4_exceptii.deps.json
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\bin\Debug\netcoreapp3.1\lectia4_exceptii.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\bin\Debug\netcoreapp3.1\lectia4_exceptii.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\bin\Debug\netcoreapp3.1\lectia4_exceptii.dll
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\bin\Debug\netcoreapp3.1\lectia4_exceptii.pdb
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\obj\Debug\netcoreapp3.1\lectia4_exceptii.csprojAssemblyReference.cache
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\obj\Debug\netcoreapp3.1\lectia4_exceptii.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\obj\Debug\netcoreapp3.1\lectia4_exceptii.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\obj\Debug\netcoreapp3.1\lectia4_exceptii.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\obj\Debug\netcoreapp3.1\lectia4_exceptii.dll
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\obj\Debug\netcoreapp3.1\lectia4_exceptii.pdb
+D:\CSharp_vs\lectii\lectia4_exceptii\lectia4_exceptii\obj\Debug\netcoreapp3.1\lectia4_exceptii.genruntimeconfig.cache

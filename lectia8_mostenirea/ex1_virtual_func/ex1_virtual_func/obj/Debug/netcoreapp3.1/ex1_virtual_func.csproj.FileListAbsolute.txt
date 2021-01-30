@@ -1,0 +1,13 @@
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\bin\Debug\netcoreapp3.1\ex1_virtual_func.exe
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\bin\Debug\netcoreapp3.1\ex1_virtual_func.deps.json
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\bin\Debug\netcoreapp3.1\ex1_virtual_func.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\bin\Debug\netcoreapp3.1\ex1_virtual_func.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\bin\Debug\netcoreapp3.1\ex1_virtual_func.dll
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\bin\Debug\netcoreapp3.1\ex1_virtual_func.pdb
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\obj\Debug\netcoreapp3.1\ex1_virtual_func.csprojAssemblyReference.cache
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\obj\Debug\netcoreapp3.1\ex1_virtual_func.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\obj\Debug\netcoreapp3.1\ex1_virtual_func.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\obj\Debug\netcoreapp3.1\ex1_virtual_func.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\obj\Debug\netcoreapp3.1\ex1_virtual_func.dll
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\obj\Debug\netcoreapp3.1\ex1_virtual_func.pdb
+D:\CSharp_vs\lectii\lectia8_mostenirea\ex1_virtual_func\ex1_virtual_func\obj\Debug\netcoreapp3.1\ex1_virtual_func.genruntimeconfig.cache

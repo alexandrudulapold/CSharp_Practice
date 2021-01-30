@@ -1,0 +1,12 @@
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\bin\Debug\netcoreapp3.1\ex3_indixatori.exe
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\bin\Debug\netcoreapp3.1\ex3_indixatori.deps.json
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\bin\Debug\netcoreapp3.1\ex3_indixatori.runtimeconfig.json
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\bin\Debug\netcoreapp3.1\ex3_indixatori.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\bin\Debug\netcoreapp3.1\ex3_indixatori.dll
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\bin\Debug\netcoreapp3.1\ex3_indixatori.pdb
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\obj\Debug\netcoreapp3.1\ex3_indixatori.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\obj\Debug\netcoreapp3.1\ex3_indixatori.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\obj\Debug\netcoreapp3.1\ex3_indixatori.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\obj\Debug\netcoreapp3.1\ex3_indixatori.dll
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\obj\Debug\netcoreapp3.1\ex3_indixatori.pdb
+D:\CSharp_vs\lectii\lectia7_proprietati\ex3_indixatori\ex3_indixatori\obj\Debug\netcoreapp3.1\ex3_indixatori.genruntimeconfig.cache

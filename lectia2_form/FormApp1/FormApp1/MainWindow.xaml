@@ -1,0 +1,15 @@
+﻿<Window x:Class="FormApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FormApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="479.428" Width="863.76">
+    <Grid Margin="0,0,-79,-21">
+        <Button x:Name="Rezultat" Content="Rezultat" HorizontalAlignment="Left" Margin="456,305,0,0" VerticalAlignment="Top" Width="288" Height="66" FontSize="18" FontWeight="Bold" Click="Rezultat_Click"/>
+        <TextBox x:Name="RezultatText" HorizontalAlignment="Left" Height="103" Margin="37,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265"/>
+        <TextBox x:Name="Conditia" HorizontalAlignment="Left" Height="85" Margin="37,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265"/>
+
+    </Grid>
+</Window>

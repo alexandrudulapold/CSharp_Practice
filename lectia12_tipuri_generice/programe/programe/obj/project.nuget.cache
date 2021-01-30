@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVK1Yd+chWGWZ09LYDC0QXUCZA5SGd9es4rodKiyeRADRpM2xPDMulN+sz7706jai7QY1Ad3ZzUy14yKiH6bsg==",
+  "success": true,
+  "projectFilePath": "D:\\CSharp_vs\\lectii\\lectia12_tipuri_generice\\programe\\programe\\programe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

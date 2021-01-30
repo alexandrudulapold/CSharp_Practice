@@ -1,0 +1,13 @@
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\CSharp_vs\lectii\lecita18_serializare\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

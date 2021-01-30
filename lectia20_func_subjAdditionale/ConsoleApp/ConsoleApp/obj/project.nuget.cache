@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFTM1D3cWkyvizBa8UnB1AfGbZYqtkj0qqtWy2Pyy6CcnyCcg/+9gO7Mv8CZiy4FpgrZKw8vik2ThsRWaU85Xg==",
+  "success": true,
+  "projectFilePath": "D:\\CSharp_vs\\lectii\\lectia20_func_subjAdditionale\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
